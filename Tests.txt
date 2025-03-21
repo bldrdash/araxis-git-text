@@ -1,0 +1,12 @@
+File Compare:
+git://c:\tmp\araxis-git-text\one.txt#4fad137
+git://c:\tmp\araxis-git-text\one.txt#97ef0da
+
+Directory Compare
+git://c:\tmp\araxis-git-text\#4fad137
+git://c:\tmp\araxis-git-text\#97ef0da
+
+git://c:\tmp\araxis-git-text#4fad137
+git://c:\tmp\araxis-git-text#97ef0da
+
+c:\tmp\araxis-git-text\
